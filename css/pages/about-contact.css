@@ -12,6 +12,10 @@
   overflow: hidden;
 }
 
+.about-hero h1 {
+  color: #ffffff;
+}
+
 .about-hero::after {
   content: '';
   position: absolute;
